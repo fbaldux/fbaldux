@@ -1,4 +1,4 @@
-- 🦦 Hi, I’m @fbaldux
+- 🦦 Hi, I’m Federico
 - 📚 I’m a PhD student in theoretical physics.
 - 💻 I resort to programming when analytical progress is too slow 🙈
 - 🌐 [Useless personal page link](https://www.statphys.sissa.it/wordpress/?page_id=4304)
